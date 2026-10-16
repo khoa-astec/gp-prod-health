@@ -1,0 +1,8 @@
+{
+  "name": "gp-prod-health",
+  "version": "0.1.0",
+  "description": "Weekly production health report from your APM/log/RUM data: slowest endpoints, error trends, front-end errors, deploy impact, and the items worth a ticket, written as a team chat post.",
+  "author": { "name": "khoa-astec" },
+  "repository": "https://github.com/khoa-astec/gp-prod-health",
+  "keywords": ["observability", "datadog", "apm", "weekly-report"]
+}

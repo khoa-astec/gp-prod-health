@@ -1,0 +1,16 @@
+{
+  "name": "gp-prod-health",
+  "owner": { "name": "khoa-astec" },
+  "metadata": {
+    "description": "Weekly production health report skill for Claude Code",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gp-prod-health",
+      "source": "./",
+      "description": "Weekly production health report: slow endpoints, errors, front-end errors, deploy impact",
+      "version": "0.1.0"
+    }
+  ]
+}
